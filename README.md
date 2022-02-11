@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fabrizio Flores Pari</h1>
+<h1 align="center">Hi 👋, I'm Fabrizio Flores</h1>
 <h3 align="center">recently completed my studies in the Computer Science Professional Program at the Universidad Católica San Pablo</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabr0d" alt="fabr0d" /></a> </p>
